@@ -1,2 +1,2 @@
 # ICPC-journey-
-Explaining interesting or educational problems of competitive programming
+Explaining my own undestanding of CP problems, DSs or algorithms
